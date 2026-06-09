@@ -22,10 +22,8 @@ Markdown
 ## 🖼️ SİBER OPERASYON MERKEZİ (SOC DASHBOARD) GÖRÜNTÜSÜ
 
 <p align="center">
-  <img src="simulation.mp4" alt="Proje Videosu" style="display:none;"> <img src="https://i.ibb.co/3W9L8Qd/dashboard-phase2.png" alt="Phantom Memory Phase-II SOC Dashboard" width="100%" style="border: 2px solid #00f0ff; border-radius: 8px; box-shadow: 0 0 20px rgba(0,240,255,0.3);">
+  <img src="Screenshot From 2026-06-09 19-25-17.png" alt="Phantom Memory Phase-II SOC Dashboard" width="100%" style="border: 2px solid #00f0ff; border-radius: 8px; box-shadow: 0 0 20px rgba(0,240,255,0.3);">
 </p>
-
-> 💡 **Not:** Eğer yerel ekran görüntünü klasör içinden bağlamak istersen, yukarıdaki link yerine kendi görselinin yolunu (Örn: `static/images/dashboard.png` veya `image_348a88.png`) yazabilirsin.
 
 ---
 
