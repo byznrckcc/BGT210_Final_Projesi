@@ -1,0 +1,35 @@
+version: '3.8'
+
+networks:
+  phantom_net:
+    driver: bridge
+    internal: true
+
+services:
+  phantom_soc_core:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bgt210_phantom_sandbox
+    restart: on-failure:5
+    networks:
+      - phantom_net
+    pid: "host"
+    ports:
+      - "127.0.0.1:5000:5000"
+    security_opt:
+      - no-new-privileges:true
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 256M
+        reservations:
+          memory: 64M
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    volumes:
+      - .:/app:ro

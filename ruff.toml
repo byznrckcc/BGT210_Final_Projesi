@@ -1,0 +1,14 @@
+# BGT210 - Advanced DevSecOps Linter Static Code Analysis Profile
+line-length = 110
+target-version = "py310"
+
+[lint]
+select = ["E", "F", "B", "I", "S", "A", "C4"]
+ignore = ["S101", "S104"]
+
+[lint.bandit]
+check-embedded-status = true
+
+[format]
+quote-style = "double"
+indent-style = "space"

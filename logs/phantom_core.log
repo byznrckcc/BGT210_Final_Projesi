@@ -1,0 +1,4 @@
+[2026-06-09 18:10:01] [INFO] [KERNEL] BGT210 Telemetry core engine loaded under PID 15382.
+[2026-06-09 18:10:02] [SECURE] [ENTROPY] Dynamic ASLR stack address space collected. Current Entropy bits: 64.
+[2026-06-09 18:10:05] [INFO] [API] Flask operational dashboard attached to isolated loopback interface 127.0.0.1:5000
+[2026-06-09 18:12:47] [STATUS] [HEALTH] Secure buffer status: MASKED. Ephemeral heap memory pointer: SECURE.
