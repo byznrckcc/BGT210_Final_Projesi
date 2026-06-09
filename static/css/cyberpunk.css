@@ -1,0 +1,26 @@
+body { 
+    background-color: #03060f; 
+    color: #00f0ff; 
+    font-family: 'Courier New', monospace; 
+}
+.cyber-grid { 
+    background: linear-gradient(180deg, #070f24 0%, #0d1b3e 100%); 
+    border: 2px solid #00f0ff; 
+    box-shadow: 0 0 20px rgba(0, 240, 255, 0.2); 
+}
+.glow-text { 
+    text-shadow: 0 0 10px #00f0ff; 
+}
+.terminal-box { 
+    background-color: #010206; 
+    border: 1px solid #1e3a8a; 
+}
+.scan-line { 
+    height: 2px; 
+    background: rgba(0, 240, 255, 0.1); 
+    animation: scan 4s linear infinite; 
+}
+@keyframes scan { 
+    0% { transform: translateY(0); } 
+    100% { transform: translateY(100vh); } 
+}
