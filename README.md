@@ -7,6 +7,8 @@
 
 ---
 
+## 🖼️ SOC Dashboard Görüntüsü
+
 <p align="center">
   <video src="simulation.mp4" width="100%" controls poster="Screenshot From 2026-06-09 19-25-17.png"></video>
 </p>
