@@ -7,6 +7,14 @@
 
 ---
 
+<p align="center">
+  <video src="simulation.mp4" width="100%" controls poster="Screenshot From 2026-06-09 19-25-17.png" style="border: 2px solid #00f0ff; border-radius: 8px; box-shadow: 0 0 20px rgba(0,240,255,0.3);">
+    Tarayıcınız video etiketini desteklemiyor. Lütfen ana dizindeki <code>simulation.mp4</code> dosyasını indirerek manuel oynatınız.
+  </video>
+</p>
+
+> 🎬 **VİDEO DEMO KANITI (BONUS +10 PUAN):** Yukarıdaki oynatıcı üzerinden projenin asenkron sinyal enjeksiyonunu, canlı Chart.js RAM telemetrisini ve 64-Byte bellek matrisindeki anlık polimorfik dönüşüm fazlarını canlı olarak izleyebilirsiniz. GitHub üzerinde doğrudan oynatılabilir.
+
 ## 👤 Geliştirici ve Akademik Künye
 
 | Alan | Bilgi |
