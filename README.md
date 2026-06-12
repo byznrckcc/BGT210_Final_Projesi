@@ -7,12 +7,6 @@
 
 ---
 
-## 🖼️ SOC Dashboard Görüntüsü
-
-<p align="center">
-  <video src="simulation.mp4" width="100%" controls poster="Screenshot From 2026-06-09 19-25-17.png"></video>
-</p>
-
 
 
 ## 👤 Geliştirici ve Akademik Künye
@@ -35,6 +29,11 @@
 </p>
 
 ---
+## 🎬 PROJE DEMO VİDEOSU
+
+> **ÖNEMLİ:** Projenin asenkron sinyal enjeksiyonu, canlı Chart.js RAM telemetrisi ve 64-Byte bellek matrisindeki anlık polimorfik dönüşüm fazları aşağıdaki videoda yer almaktadır.
+
+İzlemek için tıklayın: 🎥 [Project Demo Video](simulation.mp4)
 
 ## 📝 1. Proje Özeti
 
