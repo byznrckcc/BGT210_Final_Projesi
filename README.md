@@ -13,7 +13,7 @@
   </video>
 </p>
 
-> 🎬 **VİDEO DEMO KANITI (BONUS +10 PUAN):** Yukarıdaki oynatıcı üzerinden projenin asenkron sinyal enjeksiyonunu, canlı Chart.js RAM telemetrisini ve 64-Byte bellek matrisindeki anlık polimorfik dönüşüm fazlarını canlı olarak izleyebilirsiniz. GitHub üzerinde doğrudan oynatılabilir.
+
 
 ## 👤 Geliştirici ve Akademik Künye
 
